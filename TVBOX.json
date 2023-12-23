@@ -1,0 +1,9 @@
+{
+    "apiUrl" : "https://easyplex.cf/api/",
+
+	"pushUpdate" : "off",
+
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
+
+}
